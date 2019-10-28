@@ -1,0 +1,12 @@
+/.gradle
+gradle-app.setting
+.*.sw?
+*~
+*.bak
+/local*
+/build
+.gradletasknamecache
+*.iml
+/.idea
+/classes
+/out
